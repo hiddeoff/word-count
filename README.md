@@ -1,4 +1,5 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/coderefinery/word-count/HEAD)
+[![DOI](https://sandbox.zenodo.org/badge/475347169.svg)](https://sandbox.zenodo.org/badge/latestdoi/475347169)
 
 # Word count example
 
